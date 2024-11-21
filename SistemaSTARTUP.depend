@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1700933502 source:c:\users\cassi\downloads\pim4\sistemagesa\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1701068277 source:c:\users\cassi\downloads\pim4\sistemagesa - em andamento\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+
+1701123913 source:c:\users\cassi\downloads\pim4\sistemagesa - atualizado\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+
+1731881434 source:c:\users\luiss\desktop\programa\back - copia\unip__pim_iv-main\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+
